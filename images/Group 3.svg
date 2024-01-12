@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.569" height="33.408" viewBox="0 0 38.569 33.408">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(431.051 -340.772)">
+    <path id="Subtraction_3" data-name="Subtraction 3" class="cls-1" d="M17.576,17.576H2.2a2.2,2.2,0,0,1-2.2-2.2V2.2A2.2,2.2,0,0,1,2.2,0H5.5V5.126H2.2V15.379H17.576V13.788h2.2v1.591A2.2,2.2,0,0,1,17.576,17.576Z" transform="translate(-431.051 356.604)"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" class="cls-1" d="M17.576,17.576H12.952v-2.2h4.624V5.126H2.2V6.1H0V2.2A2.2,2.2,0,0,1,2.2,0H17.576a2.2,2.2,0,0,1,2.2,2.2V15.379A2.2,2.2,0,0,1,17.576,17.576Z" transform="translate(-412.256 340.772)"/>
+    <path id="Icon_fa-solid-window-maximize" data-name="Icon fa-solid-window-maximize" class="cls-1" d="M2.929,2.25A2.932,2.932,0,0,0,0,5.179V19.826a2.932,2.932,0,0,0,2.929,2.929H20.506a2.932,2.932,0,0,0,2.929-2.929V5.179A2.932,2.932,0,0,0,20.506,2.25ZM4.394,5.179H19.041a1.465,1.465,0,0,1,0,2.929H4.394a1.465,1.465,0,1,1,0-2.929Z" transform="translate(-423.825 345.592)"/>
+  </g>
+</svg>
